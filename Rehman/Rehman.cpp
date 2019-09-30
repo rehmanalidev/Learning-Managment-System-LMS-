@@ -1,11 +1,3 @@
-//I am changing it  					/*University of Engineering and Technology Lahore
-//After that i changed 					Dep. of Computer Science
-					Project	: C
-					Submitted to	:Ma'am Sahar Waqar
-					Submitted by	:
-						Name		:REHMAN ALI
-						Reg. NO	:2018-CS-17*/
-
 #include<iostream>
 #include<fstream>
 #include<cstring>
